@@ -1,4 +1,4 @@
-
+custom Plugin for Trello for macOS - focus mode and task automation is the best Trello for macOS plugin, featuring focus mode and task automation. Safe, efficient, and optimized
 
 
 
